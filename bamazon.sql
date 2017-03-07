@@ -25,3 +25,5 @@ values
 SELECT product_name FROM products WHERE item_id=1;
 
 UPDATE products SET stock_quantity=stock_quantity + 5 WHERE item_id=1;
+
+select * from products where stock_quantity < 10;
