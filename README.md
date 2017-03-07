@@ -1,2 +1,2 @@
 # Bamazon-Mysql
-store-like inventory using MySQL
+store-like inventory using MySQL & Node.js
